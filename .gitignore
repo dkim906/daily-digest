@@ -1,0 +1,4 @@
+.deploy_secrets.json
+encrypt.js
+verify.js
+deploy_pages.py
