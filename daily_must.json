@@ -24,5 +24,9 @@
   {
     "name": "Photoncap",
     "url": "https://photoncap.net"
+  },
+  {
+    "name": "TestSourceEN",
+    "url": "https://example.com"
   }
 ]
