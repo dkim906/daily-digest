@@ -8,9 +8,6 @@
     "url": "https://wowtale.net"
   },
   {
-    "name": "Startup Weekly"
-  },
-  {
     "name": "유니콘팩토리",
     "url": "https://unicornfactory.co.kr"
   },
@@ -19,10 +16,15 @@
     "url": "https://www.semianalysis.com"
   },
   {
-    "name": "Damnang"
+    "name": "Damnang",
+    "url": "https://damnang2.substack.com/"
   },
   {
     "name": "Photoncap",
     "url": "https://photoncap.net"
+  },
+  {
+    "name": "Equityzen",
+    "url": "https://equityzen.com/"
   }
 ]
