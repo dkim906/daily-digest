@@ -1,15 +1,35 @@
 [
   {
-    "name": "스타트업레시피",
-    "url": "https://startuprecipe.co.kr"
-  },
-  {
     "name": "와우테일",
     "url": "https://wowtale.net/feed"
   },
   {
+    "name": "스타트업레시피",
+    "url": "https://startuprecipe.co.kr"
+  },
+  {
     "name": "유니콘팩토리",
     "url": "https://www.unicornfactory.co.kr"
+  },
+  {
+    "name": "벤처스퀘어",
+    "url": "https://www.venturesquare.net/"
+  },
+  {
+    "name": "플래텀",
+    "url": "https://platum.kr/"
+  },
+  {
+    "name": "딜사이트",
+    "url": "https://dealsite.co.kr/"
+  },
+  {
+    "name": "더벨",
+    "url": "https://www.thebell.co.kr/"
+  },
+  {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/it/"
   },
   {
     "name": "SemiAnalysis",
@@ -26,5 +46,9 @@
   {
     "name": "Equityzen",
     "url": "https://blog.equityzen.com"
+  },
+  {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/"
   }
 ]
