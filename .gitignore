@@ -4,3 +4,4 @@ verify.js
 deploy_pages.py
 refresh.py
 __pycache__/
+index.html
